@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -51,6 +51,10 @@ topics:
      web_url: https://github.com/topics/android
      image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
      
+   - name: iOS
+     web_url: https://github.com/topics/ios
+     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png
+     
    - name: Angular
      web_url: https://github.com/topics/angular
      image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
@@ -62,6 +66,14 @@ topics:
    - name: ktor
      web_url: https://github.com/topics/ktor
      image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png
+     
+   - name: Swift
+     web_url: https://github.com/topics/swift
+     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
+     
+   - name: Dart
+     web_url: https://github.com/topics/dart
+     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png
      
    - name: Flutter
      web_url: https://github.com/topics/flutter
